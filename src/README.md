@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 许哲远的博客简历
+heroText: 许哲远的博客简历123456789
 tagline: 您好，我叫许哲远，🎓云南大学软件工程硕士应届生。在校期间积累了不错的编程经验，可熟练运用主流Java后端技术栈，独立开发项目。
 actions:
   - text: 查看简历 👣
