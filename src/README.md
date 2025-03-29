@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 许哲远的博客简历1111
+heroText: 许哲远的博客简历
 tagline: 您好，我叫许哲远，🎓云南大学软件工程硕士应届生。在校期间积累了不错的编程经验，可熟练运用主流Java后端技术栈，独立开发项目。
 actions:
   - text: 查看简历 👣
@@ -15,10 +15,10 @@ actions:
     type: primary
 
   - text: 上线项目1 💐
-    link: http://localhost:8080/
+    link: http://113.44.9.135/
     
   - text: 上线项目2 💐
-    link: http://localhost:8080/
+    link: http://113.44.9.135/
 
 highlights:
   - header: 
@@ -28,12 +28,12 @@ highlights:
       - title: 实习项目 - 抽奖系统
         icon: comment-dots
         details: XX年X月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: http://localhost:8080/
+        link: http://113.44.9.135/
 
       - title: 个人项目1 - 抽奖系统
         icon: box-archive
         details: XX年X月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
-        link: http://localhost:8080/
+        link: http://113.44.9.135/
 
       - title: 个人项目2 - 抽奖系统
         icon: table-columns
