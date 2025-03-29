@@ -24,9 +24,8 @@ jobs:
         run: npm install
 
       - name: Build
-#        run: npm run docs:build
-        run: npx vuepress build src
-
+        run: npm run docs:build
+#         run: npx vuepress build src
       - name: Deploy to Nginx Server
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
