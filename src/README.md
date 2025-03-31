@@ -69,8 +69,7 @@ highlights:
 
 copyright: false
 footer: |-
-#  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备1903****号</a> | MIT 协议, 版权所有 © 2025 许哲远，All rights reserved.</div>
-  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备19031103号-4</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11030102010881" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><p style="float:left;height:20px;line-height:20px;margin-top:5px; color:#939393;">京公网安备 11030102011690号</p></a> |  MIT 协议, 版权所有 © 2025 许哲远，All rights reserved.</div>
+  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备19031103号-4</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11030102010881" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://bugstack.cn/assets/images/beian.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin-top:5px; color:#939393;">京公网安备 11030102011690号</p></a> |  MIT 协议, 版权所有 © 2025 许哲远，All rights reserved.</div>
 ---
 
 <br/>
