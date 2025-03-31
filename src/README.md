@@ -28,42 +28,42 @@ highlights:
       - title: 实习项目 - 抽奖系统
         icon: comment-dots
         details: XX年X月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: http://113.44.9.135/
+        link: https://www.xuzheyuan.com/
 
       - title: 个人项目1 - 抽奖系统
         icon: box-archive
         details: XX年X月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
-        link: http://113.44.9.135/
+        link: https://www.xuzheyuan.com/
 
       - title: 个人项目2 - 抽奖系统
         icon: table-columns
         details: XX年X月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
-        link: http://localhost:8080/
+        link: https://www.xuzheyuan.com/
         
       - title: 荣誉 - 抽奖系统
         icon: table-columns
         details: XX年X月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: http://localhost:8080/
+        link: https://www.xuzheyuan.com/
         
       - title: 科研论文1 - 第一作者
         icon: table-columns
         details: XX年X月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: http://localhost:8080/
+        link: https://www.xuzheyuan.com/
         
       - title: 科研论文2 - 第一作者
         icon: comment-dots
         details: XX年X月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: http://localhost:8080/
+        link: https://www.xuzheyuan.com/
 
       - title: 主持科研项目 - 省级
         icon: box-archive
         details: XX年X月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
-        link: http://localhost:8080/
+        link: https://www.xuzheyuan.com/
 
       - title: 竞赛负责人 - 国家级
         icon: table-columns
         details: XX年X月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
-        link: http://localhost:8080/
+        link: https://www.xuzheyuan.com/
 
 
 
