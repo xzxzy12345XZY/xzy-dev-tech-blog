@@ -18,7 +18,7 @@ actions:
     link: http://www.xuzheyuan.com:11080/
     
   - text: 上线项目2 💐
-    link: http://113.44.9.135/
+    link: http://www.xuzheyuan.com:12080/
 
 highlights:
   - header: 
