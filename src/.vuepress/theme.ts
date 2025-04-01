@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "xzxzy12345XZY/xzy-dev-tech-blog",
+  repo: "xzxzy12345XZY/xzy-dev-tech-blog/tree/master",
 
   docsDir: "src",
 
