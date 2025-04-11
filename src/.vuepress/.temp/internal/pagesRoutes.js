@@ -13,6 +13,9 @@ export const pagesRoutes = [
   ["v-104da61f","/md/dev-log/day11.html",{"y":"a","t":"Day011","i":"laptop-code","I":0},[":md"]],
   ["v-12027ebe","/md/dev-log/day12.html",{"y":"a","t":"Day012","i":"laptop-code","I":0},[":md"]],
   ["v-7c27fd02","/md/dev-log/",{"y":"a","t":"开发日志","i":"laptop-code"},["/md/dev-log/README.md"]],
+  ["v-6386bf70","/md/dev-log/%E6%94%AF%E4%BB%98%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F.html",{"y":"a","t":"上线项目1-支付商城系统（维护中）","i":"construction","I":0},["/md/dev-log/支付商城系统.html","/md/dev-log/支付商城系统.md",":md"]],
+  ["v-f1aa8788","/md/dev-log/%E8%8B%A5%E6%84%9A%E6%99%BA%E6%85%A7%E5%85%BB%E8%80%81.html",{"y":"a","t":"实习项目-若愚智慧养老（维护中）","i":"construction","I":0},["/md/dev-log/若愚智慧养老.html","/md/dev-log/若愚智慧养老.md",":md"]],
+  ["v-0e2c9650","/md/dev-log/%E8%AF%84%E5%AE%A1%E7%BB%84%E4%BB%B6.html",{"y":"a","t":"上线项目2-评审组件（维护中）","i":"construction","I":0},["/md/dev-log/评审组件.html","/md/dev-log/评审组件.md",":md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-2d0aa3df","/md/",{"y":"p","t":"Md"},[]],
 ]

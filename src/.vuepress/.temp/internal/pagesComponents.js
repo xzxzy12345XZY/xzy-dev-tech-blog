@@ -29,6 +29,12 @@ export const pagesComponents = {
   "v-12027ebe": defineAsyncComponent(() => import(/* webpackChunkName: "v-12027ebe" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/dev-log/day12.html.vue")),
   // path: /md/dev-log/
   "v-7c27fd02": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c27fd02" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/dev-log/index.html.vue")),
+  // path: /md/dev-log/%E6%94%AF%E4%BB%98%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F.html
+  "v-6386bf70": defineAsyncComponent(() => import(/* webpackChunkName: "v-6386bf70" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/dev-log/支付商城系统.html.vue")),
+  // path: /md/dev-log/%E8%8B%A5%E6%84%9A%E6%99%BA%E6%85%A7%E5%85%BB%E8%80%81.html
+  "v-f1aa8788": defineAsyncComponent(() => import(/* webpackChunkName: "v-f1aa8788" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/dev-log/若愚智慧养老.html.vue")),
+  // path: /md/dev-log/%E8%AF%84%E5%AE%A1%E7%BB%84%E4%BB%B6.html
+  "v-0e2c9650": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e2c9650" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/dev-log/评审组件.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /md/

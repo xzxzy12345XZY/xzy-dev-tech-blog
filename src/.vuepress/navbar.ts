@@ -6,6 +6,7 @@ export default navbar([
   {
     text: "开发日志",
     icon: "book",
-    link: "/md/dev-log/day01.md",
+    // link: "/md/dev-log/day01.md",
+    link: "/md/dev-log/若愚智慧养老.md",
   },
 ]);
