@@ -1,7 +1,7 @@
 <template><div><h2 id="主持研究生科研基金" tabindex="-1"><a class="header-anchor" href="#主持研究生科研基金" aria-hidden="true">#</a> 主持研究生科研基金</h2>
-<embed src="/pdfs/keyan_1_fund.pdf" width="100%" height="600px" type="application/pdf" />
+<iframe src="/pdfjs/web/viewer.html?file=/pdfs/keyan_1_fund.pdf" width="100%" height="600px" style="border: none;"></iframe>
 <h3 id="团队代表性论文-科研项目基金资助-红框标出" tabindex="-1"><a class="header-anchor" href="#团队代表性论文-科研项目基金资助-红框标出" aria-hidden="true">#</a> 团队代表性论文-科研项目基金资助（红框标出）</h3>
-<embed src="/pdfs/keyan_1_others.pdf" width="100%" height="900px" type="application/pdf" />
+<iframe src="/pdfjs/web/viewer.html?file=/pdfs/keyan_1_others.pdf" width="100%" height="900px" style="border: none;"></iframe>
 <h2 id="bibm2024" tabindex="-1"><a class="header-anchor" href="#bibm2024" aria-hidden="true">#</a> 第一作者-科研论文1（BIBM2024）</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">论文简介</p>
@@ -16,7 +16,7 @@
 <p><a href="https://ieeexplore.ieee.org/document/10821840" target="_blank" rel="noopener noreferrer">🔗 IEEE链接<ExternalLinkIcon/></a><br>
 <a href="https://github.com/xzxzy12345XZY/ADAMIL" target="_blank" rel="noopener noreferrer">🧑‍💻 GitHub代码仓库<ExternalLinkIcon/></a></p>
 </div>
-<embed src="/pdfs/keyan_1_BIBM2024.pdf" width="100%" height="900px" type="application/pdf" />
+<iframe src="/pdfjs/web/viewer.html?file=/pdfs/keyan_1_BIBM2024.pdf" width="100%" height="900px" style="border: none;"></iframe>
 <h2 id="icpads2023" tabindex="-1"><a class="header-anchor" href="#icpads2023" aria-hidden="true">#</a> 第一作者-科研论文2（ICPADS2023）</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">论文简介</p>
@@ -32,7 +32,7 @@
 <p><a href="https://ieeexplore.ieee.org/document/10476144" target="_blank" rel="noopener noreferrer">🔗 IEEE链接<ExternalLinkIcon/></a><br>
 <a href="https://github.com/xzxzy12345XZY/RDIM" target="_blank" rel="noopener noreferrer">🧑‍💻 GitHub代码仓库<ExternalLinkIcon/></a></p>
 </div>
-<embed src="/pdfs/keyan_2_ICPADS2023.pdf" width="100%" height="900px" type="application/pdf" />
+<iframe src="/pdfjs/web/viewer.html?file=/pdfs/keyan_2_ICPADS2023.pdf" width="100%" height="900px" style="border: none;"></iframe>
 </div></template>
 
 
