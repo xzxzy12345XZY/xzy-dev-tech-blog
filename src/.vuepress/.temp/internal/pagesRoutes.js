@@ -4,7 +4,7 @@ export const pagesRoutes = [
   ["v-1d59d0e6","/md/resume.html",{"y":"a","t":"简历","i":"laptop-code","I":0},[":md"]],
   ["v-127792d0","/md/%E7%A7%91%E7%A0%94.html",{"y":"a","t":"科研经历","i":"microscope","I":0},["/md/科研.html","/md/科研.md",":md"]],
   ["v-f9d49d24","/md/%E7%AB%9E%E8%B5%9B.html",{"y":"a","t":"创新创业竞赛","i":"users","I":0},["/md/竞赛.html","/md/竞赛.md",":md"]],
-  ["v-53a05bdf","/md/%E8%8D%A3%E8%AA%89.html",{"y":"a","t":"职业证书与竞赛奖项","i":"award","I":0},["/md/荣誉.html","/md/荣誉.md",":md"]],
+  ["v-53a05bdf","/md/%E8%8D%A3%E8%AA%89.html",{"y":"a","t":"职业证书与荣誉称号","i":"award","I":0},["/md/荣誉.html","/md/荣誉.md",":md"]],
   ["v-49312a44","/md/dev-log/day01.html",{"y":"a","t":"Day01","i":"laptop-code","I":0},[":md"]],
   ["v-45c77906","/md/dev-log/day02.html",{"y":"a","t":"Day02","i":"laptop-code","I":0},[":md"]],
   ["v-425dc7c8","/md/dev-log/day03.html",{"y":"a","t":"Day03","i":"laptop-code","I":0},[":md"]],

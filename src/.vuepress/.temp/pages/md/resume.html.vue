@@ -1,5 +1,5 @@
 <template><div><h2 id="简历-更新时间20250416" tabindex="-1"><a class="header-anchor" href="#简历-更新时间20250416" aria-hidden="true">#</a> 简历（更新时间20250416）</h2>
-<embed src="/xuzheyuan_resume.pdf" width="100%" height="900px" type="application/pdf" />
+<embed src="/pdfs/xuzheyuan_resume.pdf" width="100%" height="900px" type="application/pdf" />
 <h2 id="个人信息" tabindex="-1"><a class="header-anchor" href="#个人信息" aria-hidden="true">#</a> 个人信息</h2>
 <ul>
 <li>姓名：许哲远</li>
@@ -20,7 +20,7 @@
 <h2 id="🧪-实习与科研经历" tabindex="-1"><a class="header-anchor" href="#🧪-实习与科研经历" aria-hidden="true">#</a> 🧪 实习与科研经历</h2>
 <h3 id="云南若愚科技有限公司-后端开发工程师" tabindex="-1"><a class="header-anchor" href="#云南若愚科技有限公司-后端开发工程师" aria-hidden="true">#</a> <strong>云南若愚科技有限公司 - 后端开发工程师</strong></h3>
 <p>2024年06月 - 2024年09月<br>
-项目背景：面向智慧医养场景定制开发的双端系统，包含后台管理端与家属小程序，聚焦智慧健康监测，采集老人生命体征实现告警管理。<br>
+项目描述：面向智慧医养场景定制开发的双端系统，包含后台管理端与家属小程序，聚焦智慧健康监测，采集老人生命体征实现告警管理。<br>
 ➤ 设备接入与数据采集：接入心率体温等健康监测设备，基于阿里云 IoT 平台完成产品建模与 MQTT 数据上报配置，支持数据模拟调试；<br>
 ➤ 智能告警规则与数据处理：制定基于指标阈值的告警逻辑，支持异常心率体温等数据的自动判别、定时检测与 Redis 缓存沉默期管理；<br>
 ➤ 实时预警与数据展示：通过 WebSocket 搭建前后端双向通信通道，实现告警信息的实时推送与页面弹窗提醒及支持健康数据可视化。</p>
@@ -33,13 +33,13 @@
 <hr>
 <h2 id="🛠️-专业技能" tabindex="-1"><a class="header-anchor" href="#🛠️-专业技能" aria-hidden="true">#</a> 🛠️ 专业技能</h2>
 <ul>
-<li><strong>Java基础</strong>：掌握集合、反射、IO、异常处理、设计模式，阅读 HashMap 源码并理解扩容机制与线程安全问题；</li>
-<li><strong>并发编程</strong>：熟悉 ThreadLocal、synchronized、volatile、CAS 等并发原语，掌握线程隔离与并发控制策略；</li>
-<li><strong>JVM原理</strong>：了解内存结构、类加载机制、GC 回收流程与元空间管理，具备基本调优与性能诊断能力；</li>
-<li><strong>开发框架</strong>：熟练使用 Spring Boot、Spring MVC、MyBatis 等，理解 IoC、AOP 与 Bean 生命周期全流程；</li>
-<li><strong>数据库</strong>：掌握 MySQL 索引优化、事务一致性、锁机制，熟悉 Redis 多结构及缓存穿透/击穿/雪崩等处理策略；</li>
-<li><strong>工具部署</strong>：了解 Linux 常用命令，熟练使用 Git、Maven、Docker 等工具实现项目构建、镜像管理与自动化部署；</li>
-<li><strong>其他能力</strong>：了解大语言模型 API 对接流程，具备 RAG 检索增强与轻量级 Agent 系统构建及功能集成经验。</li>
+<li><strong>Java基础</strong>：具有扎实的Java基础，熟练使用集合框架、IO流、反射机制与泛型，熟悉线程基础知识，了解ThreadLocal、线程池、死锁处理；</li>
+<li><strong>数据库</strong>：熟悉 MySQL使用，理解索引、事务、锁机制，具备一定SQL调优能力，掌握 Redis 基础，了解常见缓存读写策略和持久化方式；</li>
+<li><strong>JVM原理</strong>：深入理解 JVM 底层原理，包括内存结构、类加载机制、垃圾回收流程与元空间管理，具备 GC 日志分析与基本调优经验；</li>
+<li><strong>框架与中间件</strong>：熟练掌握 Spring Boot、MyBatis 等主流框架，了解 DDD 领域驱动设计思想及 RabbitMQ、xxl-job 中间件的应用场景；</li>
+<li><strong>工具与运维</strong>：精通 Linux 常用命令，熟练使用 Git、Maven 进行项目管理与协作，具备基于Docker 构建镜像与自动化部署上线的实战经验；</li>
+<li><strong>AI建模能力</strong>：掌握机器学习与深度学习基本原理，熟练使用 scikit-learn 与 PyTorch，可基于 LGBM、CNN、Transformer 等模型建模调优；</li>
+<li><strong>大模型应用</strong>：理解大语言模型 API 接入与 RAG 集成流程，善于结合Chatgpt、Trae、Cursor等AI工具辅助代码开发、知识管理与团队协作。</li>
 </ul>
 <hr>
 <h2 id="💼-项目经历" tabindex="-1"><a class="header-anchor" href="#💼-项目经历" aria-hidden="true">#</a> 💼 项目经历</h2>
@@ -50,11 +50,11 @@
 <ul>
 <li>架构升级与模块设计：完成从 MVC 向 DDD 架构重构，抽象聚合根与领域服务，提升系统可维护性与模块解耦；</li>
 <li>支付链路打通与安全防护：集成微信、支付宝支付接口，结合用户 IP 实现安全策略与模板消息提醒，保障交易稳定性；</li>
-<li>本地联调与真实环境验证：基于 NATAPP 实现内网穿透，完成订单模块校验、持久化与支付流程全链路调试。</li>
+<li>本地联调与真实环境验证：基于 NATAPP 实现内网穿透，完成订单模块校验、持久化与支付流程全链路调试，并上线部署。</li>
 </ul>
 <h3 id="rag大模型驱动的ci自动化代码评审组件-后端开发" tabindex="-1"><a class="header-anchor" href="#rag大模型驱动的ci自动化代码评审组件-后端开发" aria-hidden="true">#</a> <strong>RAG大模型驱动的CI自动化代码评审组件 - 后端开发</strong></h3>
 <p>2025年02月 - 2025年03月<br>
-项目简介：主导构建本地部署的 DeepSeek 大模型自动化代码评审组件，融合 RAG 技术，前端支持对话检索与知识库实时更新，后端基于 Spring AI 提供语义增强支持。开发者提交 Git 合并请求后，组件自动分析改动内容，生成评审建议并通过微信公众号实时推送。<br>
+项目描述：主导构建本地部署的 DeepSeek 大模型自动化代码评审组件，融合 RAG 技术，前端支持对话检索与知识库实时更新，后端基于 Spring AI 提供语义增强支持。开发者提交 Git 合并请求后，组件自动分析改动内容，生成评审建议并通过微信公众号实时推送。<br>
 核心技术：Spring Boot、Spring AI、GitHub Actions、PostgreSQL、Redis、Docker、Ollama + DeepSeek、微信公众号 API</p>
 <ul>
 <li>RAG 支撑与私有知识接入：前端支持对话检索与文档上传，构建可嵌入更新的动态私有知识库，为大模型提供语义上下文支持；</li>
@@ -64,7 +64,7 @@
 <hr>
 <h2 id="🏅-职业技能与竞赛奖项" tabindex="-1"><a class="header-anchor" href="#🏅-职业技能与竞赛奖项" aria-hidden="true">#</a> 🏅 职业技能与竞赛奖项</h2>
 <ul>
-<li><strong>职业证书</strong>：2021年通过计算机专业与软件专业技术资格-网络工程师（中级）、CCF-B类会议ICASSP2025审稿人证书</li>
+<li><strong>职业证书</strong>：2021年通过计算机专业与软件专业技术资格-网络工程师（中级）、CCF-B类会议ICASSP2025审稿人证书、讯飞Prompt Enginner证书</li>
 <li><strong>语言等级</strong>：大学英语四级（CET-4），大学英语六级（CET-6）</li>
 <li><strong>竞赛奖项</strong>：2024服务外包大赛国家二等奖、2023中国国际“互联网+”大赛国家铜奖、2023华为昇腾AI大赛省级铜奖，均任负责人</li>
 </ul>

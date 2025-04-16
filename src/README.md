@@ -30,19 +30,19 @@ highlights:
     features:
       - title: 实习项目 - 智能监测
         icon: comment-dots
-        details: 24年6月，于若愚科技实习，基于阿里云IoT平台开发健康监测模块，支持实时推送与可视化。
+        details: 24年6月，于若愚科技实习，开发IoT健康监测模块，实现设备接入、预警处理与数据可视化。
 #        link: https://www.xuzheyuan.com/
         link: /md/dev-log/若愚智慧养老.html
 
       - title: 上线项目1 - 支付系统
         icon: box-archive
-        details: 24年11月，主导基于DDD架构开发商城支付系统，完成支付链路对接与安全策略实现。
+        details: 24年11月，主导基于DDD重构商城支付系统，完成订单校验、支付对接与风控策略设计。
 #        link: https://www.xuzheyuan.com/
         link: /md/dev-log/支付商城系统.md
 
       - title: 上线项目2 - 评审组件
         icon: table-columns
-        details: 25年2月，开发代码评审组件，构建大模型RAG审查引擎，前后端配合实现知识库与结果推送。
+        details: 25年2月，构建本地部署的RAG代码审查引擎，支持私有知识入库、自动代码评审与结果推送。
 #        link: https://www.xuzheyuan.com/
         link: /md/dev-log/评审组件.md
         
@@ -54,17 +54,17 @@ highlights:
         
       - title: 科研论文1 - 第一作者
         icon: table-columns
-        details: 23年11月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: /md/科研.md
+        details: 24年10月，提出ADAMIL方法，结合多实例学习与领域对抗策略，有效提升PD病情评估精度，发表于BIBM2024。
+        link: /md/科研.md#bibm2024
         
       - title: 科研论文2 - 第一作者
         icon: comment-dots
-        details: 24年10月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: /md/科研.md
+        details: 23年11月，提出RDIM多实例学习框架，缓解粗粒度标签噪声，提升PD病情分类精度，发表于ICPADS2023。
+        link: /md/科研.md#icpads2023
 
       - title: 研究生科研基金 - 省级
         icon: box-archive
-        details: 23年11月，主持省级项目，设计手环+AI病情评估系统，覆盖采集、建模与算法优化流程。
+        details: 23年11月，主持省级研究生科研基金项目，构建基于可穿戴数据的帕金森病情评估体系，聚焦标签噪声与个体差异性问题。
         link: /md/科研.md
 
       - title: 创新创业竞赛 - 国家级

@@ -1,5 +1,38 @@
-<template><div><h2 id="荣誉" tabindex="-1"><a class="header-anchor" href="#荣誉" aria-hidden="true">#</a> 荣誉</h2>
-<embed src="/xuzheyuan_resume.pdf" width="100%" height="900px" type="application/pdf" />
+<template><div><h2 id="主持研究生科研基金" tabindex="-1"><a class="header-anchor" href="#主持研究生科研基金" aria-hidden="true">#</a> 主持研究生科研基金</h2>
+<embed src="/pdfs/keyan_1_fund.pdf" width="100%" height="600px" type="application/pdf" />
+<h3 id="团队代表性论文-科研项目基金资助-红框标出" tabindex="-1"><a class="header-anchor" href="#团队代表性论文-科研项目基金资助-红框标出" aria-hidden="true">#</a> 团队代表性论文-科研项目基金资助（红框标出）</h3>
+<embed src="/pdfs/keyan_1_others.pdf" width="100%" height="900px" type="application/pdf" />
+<h2 id="bibm2024" tabindex="-1"><a class="header-anchor" href="#bibm2024" aria-hidden="true">#</a> 第一作者-科研论文1（BIBM2024）</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">论文简介</p>
+<p>可穿戴传感器结合机器学习为帕金森病（Parkinson’s Disease, PD）病情评估提供了一种有效解决方案。
+然而，来自可穿戴设备的时间序列数据通常缺乏窗口级的病情标签，导致监督信号较弱，并引入标签噪声问题。
+此外，个体差异带来的分布差异进一步加大了模型学习的难度。
+为解决上述问题，我们提出了一种自适应领域对抗多实例学习方法（Adaptive Domain-Adversarial Multi-Instance Learning，ADAMIL），该方法结合并优化了多实例学习（Multiple-Instance Learning，MIL）与领域对抗技术。
+我们在传统MIL框架中引入了自注意力机制与可学习位置编码，使ADAMIL能够更有效地捕捉时间依赖关系，从而更适应弱监督时间序列中的标签噪声问题。
+此外，ADAMIL优化了领域对抗机制，可自适应地对齐潜在分布，无需依赖预定义标签即可实现稳健的领域不变特征学习。
+实验结果表明，ADAMIL在细粒度PD病情分类中达到了 85.29% 的准确率与 80.57% 的 F1 值，优于现有方法。
+值得注意的是，该结果仅使用单个腕部可穿戴传感器实现，展示了其在临床与居家场景中的实际应用潜力。</p>
+<p><a href="https://ieeexplore.ieee.org/document/10821840" target="_blank" rel="noopener noreferrer">🔗 IEEE链接<ExternalLinkIcon/></a><br>
+<a href="https://github.com/xzxzy12345XZY/ADAMIL" target="_blank" rel="noopener noreferrer">🧑‍💻 GitHub代码仓库<ExternalLinkIcon/></a></p>
+</div>
+<embed src="/pdfs/keyan_1_BIBM2024.pdf" width="100%" height="900px" type="application/pdf" />
+<h2 id="icpads2023" tabindex="-1"><a class="header-anchor" href="#icpads2023" aria-hidden="true">#</a> 第一作者-科研论文2（ICPADS2023）</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">论文简介</p>
+<p>一个有效的帕金森病（Parkinson’s Disease, PD）病情辅助诊断模型有助于减轻医院的诊疗负担，尤其是在医疗资源有限的国家或地区。
+然而，一个关键挑战仍制约着该领域的研究进展。
+以往研究采用标签传播技术，对同一位患者的所有活动片段赋予相同的统一标签，忽略了PD症状表现的复杂性，从而引入了标签噪声问题。
+为应对这一挑战，我们在临床环境中采集了大量PD患者的活动信号，并提出了一个高效且鲁棒的病情评估框架。
+具体而言，我们基于帕金森病统一评级量表第三部分（Unified Parkinson’s Disease Rating Scale Part III，UPDRS-III），采集了来自70名PD患者的14类日常活动可穿戴设备数据。
+数据分析表明，许多活动片段存在标签错误，严重影响模型的分类性能。
+为此，我们提出了一个基于多实例学习（Multi-Instance Learning，MIL）的新型框架，结合重加权判别性实例映射（Re-weighted Discriminative Instance Mapping，RDIM）机制，
+用于建模PD的辅助诊断任务，旨在减轻由粗粒度标签传播引起的噪声影响。实验结果表明，
+该框架在PD病情分类中取得了 80.88% 的准确率，有效缓解了标签噪声问题。</p>
+<p><a href="https://ieeexplore.ieee.org/document/10476144" target="_blank" rel="noopener noreferrer">🔗 IEEE链接<ExternalLinkIcon/></a><br>
+<a href="https://github.com/xzxzy12345XZY/RDIM" target="_blank" rel="noopener noreferrer">🧑‍💻 GitHub代码仓库<ExternalLinkIcon/></a></p>
+</div>
+<embed src="/pdfs/keyan_2_ICPADS2023.pdf" width="100%" height="900px" type="application/pdf" />
 </div></template>
 
 
