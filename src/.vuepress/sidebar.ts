@@ -5,10 +5,10 @@ export default sidebar({
     "",
     {
       text: "个人简历",
-      icon: "laptop-code",
+      icon: "id-card",
       prefix: "md/",
       collapsible: true,  // 🔥 这个属性让它变成可折叠组
-      children: ["resume.md"],
+      children: ["resume.md", "科研.md", "竞赛.md", "荣誉.md"],
     },
     {
       text: "若愚智慧养老 项目开发日志",

@@ -7,6 +7,12 @@ export const pagesComponents = {
   "v-2e3eac9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e3eac9e" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/slides.html.vue")),
   // path: /md/resume.html
   "v-1d59d0e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d59d0e6" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/resume.html.vue")),
+  // path: /md/%E7%A7%91%E7%A0%94.html
+  "v-127792d0": defineAsyncComponent(() => import(/* webpackChunkName: "v-127792d0" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/科研.html.vue")),
+  // path: /md/%E7%AB%9E%E8%B5%9B.html
+  "v-f9d49d24": defineAsyncComponent(() => import(/* webpackChunkName: "v-f9d49d24" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/竞赛.html.vue")),
+  // path: /md/%E8%8D%A3%E8%AA%89.html
+  "v-53a05bdf": defineAsyncComponent(() => import(/* webpackChunkName: "v-53a05bdf" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/荣誉.html.vue")),
   // path: /md/dev-log/day01.html
   "v-49312a44": defineAsyncComponent(() => import(/* webpackChunkName: "v-49312a44" */"D:/software/Study/Java/Blog/blog/blog/src/.vuepress/.temp/pages/md/dev-log/day01.html.vue")),
   // path: /md/dev-log/day02.html

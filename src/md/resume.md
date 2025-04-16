@@ -1,5 +1,5 @@
 ---
-title: 个人简历
+title: 简历
 index: false
 icon: laptop-code
 category:
@@ -8,7 +8,7 @@ category:
   - 项目经验
 ---
 
-## 简历（更新时间20250411）
+## 简历（更新时间20250416）
 
 <embed src="/xuzheyuan_resume.pdf" width="100%" height="900px" type="application/pdf" />
 

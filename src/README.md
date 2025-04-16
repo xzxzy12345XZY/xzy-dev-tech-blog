@@ -30,46 +30,47 @@ highlights:
     features:
       - title: 实习项目 - 智能监测
         icon: comment-dots
-        details: 24年6月，基于阿里云IoT平台开发养老健康告警系统，支持实时推送与可视化。
+        details: 24年6月，于若愚科技实习，基于阿里云IoT平台开发健康监测模块，支持实时推送与可视化。
 #        link: https://www.xuzheyuan.com/
         link: /md/dev-log/若愚智慧养老.html
 
-      - title: 上线项目1 - 商城系统
+      - title: 上线项目1 - 支付系统
         icon: box-archive
-        details: 24年11月，基于DDD架构构建支付系统，完成支付链路对接与安全策略实现。
+        details: 24年11月，主导基于DDD架构开发商城支付系统，完成支付链路对接与安全策略实现。
 #        link: https://www.xuzheyuan.com/
-        link: /md/dev-log/支付商城系统.html
+        link: /md/dev-log/支付商城系统.md
 
       - title: 上线项目2 - 评审组件
         icon: table-columns
-        details: 25年2月，集成RAG与私有知识，开发大模型代码审查引擎与CI自动部署模块。
+        details: 25年2月，开发代码评审组件，构建大模型RAG审查引擎，前后端配合实现知识库与结果推送。
 #        link: https://www.xuzheyuan.com/
-        link: /md/dev-log/评审组件.html
+        link: /md/dev-log/评审组件.md
         
-      - title: 荣誉 - 奖项证书
+      - title: 职业技能与荣誉 - 证书
         icon: table-columns
-        details: 获互联网+铜奖、服务外包二等奖、昇腾大赛省铜奖，均担任团队负责人。
-        link: https://www.xuzheyuan.com/
+        details: 持网络工程师、英语六级、讯飞Prompt Enginner等证书，获省级优秀毕业生、双创先锋称号。
+#        link: https://www.xuzheyuan.com/
+        link: /md/荣誉.md
         
       - title: 科研论文1 - 第一作者
         icon: table-columns
         details: 23年11月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: https://www.xuzheyuan.com/
+        link: /md/科研.md
         
       - title: 科研论文2 - 第一作者
         icon: comment-dots
         details: 24年10月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: https://www.xuzheyuan.com/
+        link: /md/科研.md
 
       - title: 研究生科研基金 - 省级
         icon: box-archive
         details: 23年11月，主持省级项目，设计手环+AI病情评估系统，覆盖采集、建模与算法优化流程。
-        link: https://www.xuzheyuan.com/
+        link: /md/科研.md
 
       - title: 创新创业竞赛 - 国家级
         icon: table-columns
-        details: 获互联网+铜奖、服务外包二等奖、昇腾大赛省铜奖，均担任团队负责人。
-        link: https://www.xuzheyuan.com/
+        details: 获中国国际“互联网+”大赛国家铜奖、服务外包大赛国家二等奖、华为昇腾AI大赛省级铜奖，均任负责人。
+        link: /md/竞赛.md
 
 
 
