@@ -8,7 +8,7 @@ category:
   - 项目经验
 ---
 
-## 简历（更新时间20250425）
+## 简历（更新时间20250427）
 
 [//]: # (<embed src="/pdfs/xuzheyuan_resume.pdf" width="100%" height="900px" type="application/pdf" />)
 <iframe src="/pdfjs/web/viewer.html?file=/pdfs/xuzheyuan_resume.pdf" width="100%" height="900px" style="border: none;"></iframe>
