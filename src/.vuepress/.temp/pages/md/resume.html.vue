@@ -1,4 +1,4 @@
-<template><div><h2 id="简历-更新时间20250416" tabindex="-1"><a class="header-anchor" href="#简历-更新时间20250416" aria-hidden="true">#</a> 简历（更新时间20250416）</h2>
+<template><div><h2 id="简历-更新时间20250427" tabindex="-1"><a class="header-anchor" href="#简历-更新时间20250427" aria-hidden="true">#</a> 简历（更新时间20250427）</h2>
 <iframe src="/pdfjs/web/viewer.html?file=/pdfs/xuzheyuan_resume.pdf" width="100%" height="900px" style="border: none;"></iframe>
 <h2 id="个人信息" tabindex="-1"><a class="header-anchor" href="#个人信息" aria-hidden="true">#</a> 个人信息</h2>
 <ul>
@@ -28,7 +28,7 @@
 <p>2023年11月 - 2025年04月<br>
 项目背景：基于手环手表等可穿戴设备数据，构建面向帕金森病智能诊断的机器学习评估体系，实现日常场景下的自动识别与精准分析。<br>
 ➤ 构建基于可穿戴传感器的多活动细粒度帕金森病情评估数据集，开发涵盖采集、预处理与多活动融合策略建模的病情评估框架代码库；<br>
-➤ 聚焦解决标签噪声与个体差异性，第一作者发表3篇国际论文（BIBM2024、ICAPADS2023），并协调团队成员共发表7篇国际论文；<br>
+➤ 聚焦解决标签噪声与个体差异性，第一作者发表3篇国际论文（BIBM2024、ICPADS2023），并协调团队成员共发表7篇国际论文；<br>
 ➤ 主导多个创新创业竞赛获国家级奖项，组织参与中国移动研究院与医院评估，获得首席科学家推荐信与两家企业共计200万元投资意向。</p>
 <hr>
 <h2 id="🛠️-专业技能" tabindex="-1"><a class="header-anchor" href="#🛠️-专业技能" aria-hidden="true">#</a> 🛠️ 专业技能</h2>
@@ -43,7 +43,7 @@
 </ul>
 <hr>
 <h2 id="💼-项目经历" tabindex="-1"><a class="header-anchor" href="#💼-项目经历" aria-hidden="true">#</a> 💼 项目经历</h2>
-<h3 id="基于-ddd-架构的拼团交易平台支付系统-后端开发" tabindex="-1"><a class="header-anchor" href="#基于-ddd-架构的拼团交易平台支付系统-后端开发" aria-hidden="true">#</a> <strong>基于 DDD 架构的拼团交易平台支付系统 - 后端开发</strong></h3>
+<h3 id="基于-ddd-架构的拼团交易平台支付系统-后端开发-访问链接-http-www-xuzheyuan-com-11080" tabindex="-1"><a class="header-anchor" href="#基于-ddd-架构的拼团交易平台支付系统-后端开发-访问链接-http-www-xuzheyuan-com-11080" aria-hidden="true">#</a> <strong>基于 DDD 架构的拼团交易平台支付系统</strong> - 后端开发（访问链接：http://www.xuzheyuan.com:11080/）</h3>
 <p>2024年11月 - 2024年12月<br>
 项目描述：主导开发基于 DDD 架构的拼团交易平台支付系统，覆盖用户下单至支付的完整链路。项目初期采用 MVC 架构，后期重构为 DDD，完成聚合划分、实体建模与领域服务抽象，提升系统扩展性与业务表达力，并集成微信、支付宝接口，保障支付流程的安全性与稳定性。<br>
 核心技术：Spring Boot、MyBatis、MySQL、Redis、Docker、NATAPP、微信公众号 API、支付宝 SDK</p>
@@ -52,7 +52,7 @@
 <li>支付链路打通与安全防护：集成微信、支付宝支付接口，结合用户 IP 实现安全策略与模板消息提醒，保障交易稳定性；</li>
 <li>本地联调与真实环境验证：基于 NATAPP 实现内网穿透，完成订单模块校验、持久化与支付流程全链路调试，并上线部署。</li>
 </ul>
-<h3 id="rag大模型驱动的ci自动化代码评审组件-后端开发" tabindex="-1"><a class="header-anchor" href="#rag大模型驱动的ci自动化代码评审组件-后端开发" aria-hidden="true">#</a> <strong>RAG大模型驱动的CI自动化代码评审组件 - 后端开发</strong></h3>
+<h3 id="rag大模型驱动的ci自动化代码评审组件-后端开发-访问链接-http-www-xuzheyuan-com-12080" tabindex="-1"><a class="header-anchor" href="#rag大模型驱动的ci自动化代码评审组件-后端开发-访问链接-http-www-xuzheyuan-com-12080" aria-hidden="true">#</a> <strong>RAG大模型驱动的CI自动化代码评审组件</strong> - 后端开发（访问链接：http://www.xuzheyuan.com:12080/）</h3>
 <p>2025年02月 - 2025年03月<br>
 项目描述：主导构建本地部署的 DeepSeek 大模型自动化代码评审组件，融合 RAG 技术，前端支持对话检索与知识库实时更新，后端基于 Spring AI 提供语义增强支持。开发者提交 Git 合并请求后，组件自动分析改动内容，生成评审建议并通过微信公众号实时推送。<br>
 核心技术：Spring Boot、Spring AI、GitHub Actions、PostgreSQL、Redis、Docker、Ollama + DeepSeek、微信公众号 API</p>
