@@ -3,7 +3,7 @@
 <h2 id="个人信息" tabindex="-1"><a class="header-anchor" href="#个人信息" aria-hidden="true">#</a> 个人信息</h2>
 <ul>
 <li>姓名：许哲远</li>
-<li>电话：13733444015 / 18987899085</li>
+<li>电话：137******** / 189********</li>
 <li>邮箱：xuzheyuan0712@163.com</li>
 <li>籍贯：湖北武汉</li>
 <li>学历：硕士应届毕业生（可随时到岗）</li>
